@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp.View.CarDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp.View"
+        mc:Ignorable="d"
+        
+        Title="Создание автомобиля" Height="205.348" Width="388.235" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Text="Количество дверей" Style="{StaticResource TextBlockStyle}" Grid.Column="0" Grid.Row="0"/>
+        <TextBlock Text="Количество колёс" Style="{StaticResource TextBlockStyle}" Grid.Column="0" Grid.Row="1"/>
+
+        <TextBox Name="DoorCountTextBox" Style="{StaticResource TextBoxStyle}" Grid.Column="1" Grid.Row="0" Text="4"/>
+        <TextBox Name="WheelCountTextBox" Style="{StaticResource TextBoxStyle}" Grid.Column="1" Grid.Row="1" Text="4"/>
+
+        <Button Content="Ok" Style="{StaticResource ButtonStyle}" Grid.Column="0" Grid.Row="3" Click="Button_Click"/>
+        <Button Content="Отмена" Style="{StaticResource ButtonStyle}" Grid.Column="1" Grid.Row="3" Click="Button_Click_1"/>
+    </Grid>
+</Window>

@@ -1,0 +1,62 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:model="clr-namespace:WpfApp.Model">
+    <ResourceDictionary.MergedDictionaries>
+
+        <ResourceDictionary>
+            <HierarchicalDataTemplate DataType="{x:Type model:Car}"  ItemsSource="{Binding Children}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Text="{Binding Name}" />
+                </StackPanel>
+            </HierarchicalDataTemplate>
+        </ResourceDictionary>
+
+        <ResourceDictionary>
+            <HierarchicalDataTemplate DataType="{x:Type model:Body}"  >
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Text="{Binding Name}" />
+                    <Button Command="{Binding OpenCommand}"  Style="{StaticResource TreeViewButtonStyle}" Content="О/З"  ToolTip="Открыть/Закрыть"/>
+                    <Button Command="{Binding RotateCommand}"  Style="{StaticResource TreeViewButtonStyle}" Content="->"  ToolTip="Вращать/Остановить"/>
+                </StackPanel>
+            </HierarchicalDataTemplate>
+        </ResourceDictionary>
+
+        <ResourceDictionary>
+            <HierarchicalDataTemplate DataType="{x:Type model:Door}" >
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Text="{Binding Name}" />
+                    <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}, Path=DataContext.RemoveOrInsertCommand}" 
+                           CommandParameter="Remove" Style="{StaticResource TreeViewButtonStyle}" Content="-" ToolTip="Удалить"/>
+                    <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}, Path=DataContext.RemoveOrInsertCommand}" 
+                           CommandParameter="Insert" Style="{StaticResource TreeViewButtonStyle}" Content="+"  ToolTip="Создать"/>
+                    <Button Command="{Binding OpenCommand}"  Style="{StaticResource TreeViewButtonStyle}" Content="О/З"  ToolTip="Открыть/Закрыть"/>
+                </StackPanel>
+            </HierarchicalDataTemplate>
+        </ResourceDictionary>
+
+        <ResourceDictionary>
+            <HierarchicalDataTemplate DataType="{x:Type model:Wheel}"  ItemsSource="{Binding Nuts}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Text="{Binding Name}" />
+                    <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}, Path=DataContext.RemoveOrInsertCommand}" 
+                           CommandParameter="Remove" Style="{StaticResource TreeViewButtonStyle}" Content="-" ToolTip="Удалить"/>
+                    <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}, Path=DataContext.RemoveOrInsertCommand}" 
+                            CommandParameter="Insert" Style="{StaticResource TreeViewButtonStyle}" Content="+"  ToolTip="Создать"/>
+                    <Button Command="{Binding RotateCommand}"  Style="{StaticResource TreeViewButtonStyle}" Content="->"  ToolTip="Вращать/Остановить"/>
+                </StackPanel>
+            </HierarchicalDataTemplate>
+        </ResourceDictionary>
+
+        <ResourceDictionary>
+            <HierarchicalDataTemplate  DataType="{x:Type model:Nut}"  ItemsSource="{Binding}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Text="{Binding Name}" />
+                    <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}, Path=DataContext.RemoveOrInsertCommand}" 
+                          CommandParameter="Remove"  Style="{StaticResource TreeViewButtonStyle}" Content="-" ToolTip="Удалить"/>
+                    <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}, Path=DataContext.RemoveOrInsertCommand}" 
+                            CommandParameter="Insert" Style="{StaticResource TreeViewButtonStyle}" Content="+"  ToolTip="Создать"/>
+                </StackPanel>
+            </HierarchicalDataTemplate>
+        </ResourceDictionary>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

@@ -1,0 +1,75 @@
+c:\users\sborkov\documents\visual studio 2015\Projects\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp.csprojResolveAssemblyReference.cache
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.Cache
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\View\CarDialog.g.cs
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\SBorkov\Documents\Visual Studio 2015\Projects\WpfApp\WpfApp\obj\Debug\View\CarDialog.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Z\Desktop\WpfApp\WpfApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\BodyView.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\CarView.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\DoorView.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\NutView.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\WheelView.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\BodyView.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\CarView.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\DoorView.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\NutView.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\WheelView.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\CarDialog.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\Resources\ContentDictionary.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\Resources\TreeViewDictionary.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\View\CarDialog.baml
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.Cache
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Z\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.pdb

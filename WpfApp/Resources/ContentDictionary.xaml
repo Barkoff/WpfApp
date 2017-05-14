@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:mod="clr-namespace:WpfApp.Model"
+                    xmlns:view="clr-namespace:WpfApp.View">
+    <DataTemplate DataType = "{x:Type mod:Door}">
+        <view:DoorView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type mod:Body}">
+        <view:BodyView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type mod:Car}">
+        <view:CarView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type mod:Wheel}">
+        <view:WheelView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type mod:Nut}">
+        <view:NutView/>
+    </DataTemplate>
+
+</ResourceDictionary>
